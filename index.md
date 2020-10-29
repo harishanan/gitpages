@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lab 8 for Web Development
 
 You can use the [editor on GitHub](https://github.com/harishanan/gitpages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
